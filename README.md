@@ -35,7 +35,7 @@ python example2PostProcess.py
 
 ## Using and Extending
 
-The lib folder contains several python files you may want to extend.
+The lib folder contains several python files you may want to extend. Espacially, utils.py and inSimulationUtils.py.
 
 ## License
 
