@@ -33,6 +33,10 @@ yadedaily example2.py
 python example2PostProcess.py
 ```
 
+## Using and Extending
+
+The lib folder contains several python files you may want to extend.
+
 ## License
 
 This project is licensed under the Unlicense - see the [LICENSE.md](LICENSE.md) file for details
