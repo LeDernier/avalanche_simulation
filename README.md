@@ -2,6 +2,8 @@
 
 Originally a school project at the INP-ENSEEIHT engineering school. The aim was to study the influence of a few parameters on the flow of an avalanche and its impact on a structure.  
 
+![Picture of a simulation.](LeDernier.github.com/avalanche_simulation/img/Avalanche.png)
+
 ## Getting Started
 
 Clone or download the project and unzip it. Then move to its location with a terminal to get started.
